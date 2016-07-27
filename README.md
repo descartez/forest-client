@@ -1,3 +1,5 @@
+![logo](docs/img/forest-logo.png)
+
 # forest-client
 A client app for the RESTful forest api, found here: http://restful-forest.herokuapp.com/
 
@@ -43,4 +45,4 @@ API is HATEOAS (Hypermedia as the Engine of Application State), which means the 
   }
 ```
 
-This allows for the client to traverse the forest using the API exlusively. 
+This allows for the client to traverse the forest using the API exlusively.
